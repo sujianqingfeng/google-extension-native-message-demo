@@ -1,0 +1,9 @@
+{
+  "name": "com.execute",
+  "description": "execute",
+  "path": "C:\\Users\\hens\\Desktop\\message-bridge.py",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://hhooekeoccpmbbmbemfpogfmnphimfhn/"
+  ]
+}
